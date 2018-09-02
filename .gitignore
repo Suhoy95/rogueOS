@@ -53,4 +53,5 @@ dkms.conf
 
 # user-specific
 BOOTX64.EFI
-fat.img
+*.img
+*.efi
